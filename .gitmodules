@@ -1,0 +1,6 @@
+[submodule "libs/sec_html_parser"]
+	path = libs/sec_html_parser
+	url = git@github.com:tomaster777/sec_html_parser.git
+[submodule "libs/stock_article_reader"]
+	path = libs/stock_article_reader
+	url = git@github.com:tomaster777/stock_article_reader.git
