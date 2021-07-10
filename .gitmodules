@@ -4,3 +4,9 @@
 [submodule "libs/stock_article_reader"]
 	path = libs/stock_article_reader
 	url = git@github.com:tomaster777/stock_article_reader.git
+[submodule "app"]
+	path = app
+	url = git@github.com:tomaster777/vale-app.git
+[submodule "functions/get_stock_sec_form"]
+	path = functions/get_stock_sec_form
+	url = git@github.com:tomaster777/get_stock_sec_form.git
